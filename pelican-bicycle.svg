@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" width="500" height="350">
+  <rect width="500" height="350" fill="#fafafa"/>
+  <g fill="none" stroke="#333" stroke-width="6" stroke-linecap="round">
+    <!-- road -->
+    <line x1="0" y1="280" x2="500" y2="280"/>
+    <!-- bicycle -->
+    <circle cx="120" cy="230" r="70" stroke="#333" stroke-width="6"/>
+    <circle cx="400" cy="230" r="70" stroke="#333" stroke-width="6"/>
+    <path d="M120 230 L190 140 L400 230 L330 230 Z" stroke="#333" stroke-width="6"/>
+    <path d="M190 140 L185 110"/>
+    <path d="M330 230 L325 200"/>
+    <path d="M400 230 L395 200"/>
+    <path d="M185 110 L192 78"/>
+    <rect x="178" y="72" width="28" height="12" rx="3" fill="#333"/>
+    <rect x="182" y="105" width="28" height="12" rx="3" fill="#333"/>
+    <!-- pelican -->
+    <ellipse cx="260" cy="170" rx="70" ry="45" fill="#fff" stroke="#333" stroke-width="5"/>
+    <path d="M190 155 Q225 120 260 145 Q250 160 225 170 Z" fill="#fff" stroke="#333" stroke-width="5"/>
+    <path d="M330 150 Q360 115 380 140 Q365 175 335 175 Z" fill="#fff" stroke="#333" stroke-width="5"/>
+    <circle cx="350" cy="130" r="20" fill="#fff" stroke="#333" stroke-width="5"/>
+    <circle cx="358" cy="124" r="4" fill="#333"/>
+    <path d="M368 125 Q430 120 470 142 Q440 148 374 146 Z" fill="#ffd86b" stroke="#333" stroke-width="3"/>
+    <path d="M370 146 Q410 175 450 145 Q425 158 378 152 Z" fill="#ff9933"/>
+    <path d="M260 230 L250 290" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M310 230 L320 285" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
